@@ -39,6 +39,8 @@ params:
   systems:
     - name: LTGN Website
       category: Websites
+    - name: ltg.link
+      category: Services
   dateFormat: January 2, 2006 at 3:04 PM UTC
   brand: "#0a0c0f"
   enableLastMod: true
